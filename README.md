@@ -1,4 +1,4 @@
-# Graduated Job Seeker Program
+# Six-Month Plus Job Seeker Program
 
 Welcome! We're excited to spend the next several weeks with you. Together, we'll be making a strong effort to land you a job as quickly as possible. We'll be covering technical topics ranging from algorithms to React, as well as reviewing tips for interviewing, whiteboarding, and pitching yourself to employers. Let's get started!
 
@@ -67,4 +67,3 @@ Welcome! We're excited to spend the next several weeks with you. Together, we'll
 <!-- Misc -->
 [awesome-list]: https://github.com/MaximAbramchuck/awesome-interview-questions
 [project-ideas]: http://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/
-

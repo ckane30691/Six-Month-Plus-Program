@@ -9,7 +9,7 @@
 ## Day Two
 
 * [Pairboarding](https://github.com/appacademy/graduated-job_seeker-program/tree/master/pairboarding-problems) (10:00 - 12:00)
-* Application Sprint (1:30 - 3:30)
+* Office Hours/Job App Clinic (1:30 - 3:30)
 
 ### Reading: [JavaScript, the Event Loop, and Asynchronicity](https://github.com/appacademy/graduated-job_seeker-program/tree/master/week-2/js_eventloop_asynchronicity)
 
